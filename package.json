@@ -3,10 +3,10 @@
     "displayName": "DustJS",
     "description": "DustJS Visual Studio Code",
     "version": "0.1.0",
-    "publisher": "Azkaban Coders",
+    "publisher": "AzkabanCoders",
     "icon": "images/dustjs.png",
 	"galleryBanner": {
-		"color": "#0000FF",
+		"color": "#181835",
 		"theme": "dark"
 	},
     "license": "SEE LICENSE IN LICENSE.md",
