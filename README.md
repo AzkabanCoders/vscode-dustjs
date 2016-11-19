@@ -3,7 +3,7 @@
 VSCode DustJS support
 Adds syntax highlighting to Dust JS files in VSCode.
 
-## Version 0.1.0
+## Version 0.1.1
 
 * Initial Release
 
